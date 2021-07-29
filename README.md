@@ -1,4 +1,4 @@
-# Rails Gym App
+# Rails Practice Challenge - Gym
 
 ## Setup
 
@@ -36,7 +36,7 @@ Write migrations to create the following tables:
 | **id** |    **name**    |                       **address**                       |
 | :----: | :------------: | :-----------------------------------------------------: |
 |   1    |  L.A.Fitness   | Suite 981 1795 Leida Fords, Nataliemouth, TN 14377-4979 |
-|   2    | Planet Firness |       7768 David Avenue, Greenside, PA 67475-3655       |
+|   2    | Planet Fitness |       7768 David Avenue, Greenside, PA 67475-3655       |
 
 **Clients** Table:
 

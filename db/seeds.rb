@@ -1,5 +1,5 @@
 la = Gym.create(name: "L.A. Fitness", address: "Suite 981 1795 Leida Fords, Nataliemouth, TN 14377-4979")
-planet = Gym.create(name: "Planet Firness", address: "7768 David Avenue, Greenside, PA 67475-3655")
+planet = Gym.create(name: "Planet Fitness", address: "7768 David Avenue, Greenside, PA 67475-3655")
 
 cassie = Client.create(name: "Casie Effertz", age: 18)
 dorris = Client.create(name: "Dorris Bogan", age: 52)
