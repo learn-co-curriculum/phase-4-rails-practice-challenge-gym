@@ -17,7 +17,7 @@ $ rails s
 ```
 
 There are no tests for this application, so you'll need to check your progress
-by running the server and using Postman make requests.
+by running the server and using Postman to make requests.
 
 ## Introduction
 
