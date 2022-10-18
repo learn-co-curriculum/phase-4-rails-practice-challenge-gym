@@ -11,3 +11,5 @@ Membership.create(gym_id: la.id, client_id: dorris.id, charge: 40)
 Membership.create(gym_id: la.id, client_id: bernie.id, charge: 40)
 Membership.create(gym_id: planet.id, client_id: cassie.id, charge: 50)
 Membership.create(gym_id: planet.id, client_id: manie.id, charge: 60)
+
+puts "Done seeding!"
